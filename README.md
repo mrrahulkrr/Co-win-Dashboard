@@ -16,7 +16,7 @@ In this project, I have build a **CoWIN Dashboard** by applying the react concep
 </div>
 <br/>
 
-### Completion Instructions
+## Completion Instructions
 
 <details>
 <summary>Functionality added</summary>
@@ -41,7 +41,7 @@ The app will have the following functionalities
 
 **covidVaccinationDataApiUrl**
 
-#### API: `https://apis.ccbp.in/covid-vaccination-data`
+## API: `https://apis.ccbp.in/covid-vaccination-data`
 
 #### Method: `GET`
 
@@ -88,15 +88,5 @@ Returns a response containing the list of Products
     <img src="https://assets.ccbp.in/frontend/content/react-js/cowin-dashbaord-component-structure-breakdown.png" alt="component-breakdown-structure" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
-
-</details>
-
-### Resources
-
-<details>
-<summary>Image URLs</summary>
-
-- [https://assets.ccbp.in/frontend/react-js/api-failure-view.png](https://assets.ccbp.in/frontend/react-js/api-failure-view.png) alt =  **failure view**
-- [https://assets.ccbp.in/frontend/react-js/cowin-logo.png](https://assets.ccbp.in/frontend/react-js/cowin-logo.png) alt = **website logo**
 
 </details>
